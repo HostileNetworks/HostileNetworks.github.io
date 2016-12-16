@@ -16,6 +16,76 @@
         ],
         "exclude" : [ ]
       }
+    },
+    {
+      "properties" : {
+        "name" : "LLOverlayReloaded-ReignModpack",
+        "description" : "Toggle a light-level spawn overlay when you press F7. Similar to NEI's version, but more compatible.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/LLOverlayReloaded-*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Xaero's Minimap (Restricted)",
+        "description" : "A modified version of Xaero's Minimap that only unlocks once you posess a specific item (lore-friendly).",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/Xaeros_Minimap_*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Ambiotic",
+        "description" : "MAtmos-inspired ambient sound engine.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/ambiotic-*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Dynamic Surroundings",
+        "description" : "Audio and visual immersion/enhancement mod. Lots of cool effects.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/DynamicSurroundings-*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Sound Filters",
+        "description" : "Adds sound reverb to caves and a muted effect to sound when behind walls and underwater.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/SoundFilters-*"
+        ],
+        "exclude" : [ ]
+      }
     }
   ],
   "userFiles" : {
