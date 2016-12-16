@@ -1,0 +1,34 @@
+{
+  "name" : "Reign",
+  "title" : "Reign",
+  "gameVersion" : "1.7.10",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "FastCraft",
+        "description" : "FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. FastCraft is useful for anything, even fast PCs and servers benefit.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/fastcraft-*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsof.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}

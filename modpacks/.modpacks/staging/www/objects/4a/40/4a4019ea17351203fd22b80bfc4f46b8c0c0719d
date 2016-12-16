@@ -1,0 +1,326 @@
+# Configuration file
+
+##########################################################################################################
+# armor
+#--------------------------------------------------------------------------------------------------------#
+# Modify the effects armor has on entities when worn
+##########################################################################################################
+
+armor {
+
+    "item_JetPack_[Ljava_lang_String;@1ac16fd5" {
+        S:01.ID=GalaxySpace:item.JetPack
+        D:"02.Temp Add - Night"=0.0
+        D:"03.Temp Add - Shade"=0.0
+        D:"04.Temp Add - Sun"=0.0
+        D:"05.Temp Multiplier - Night"=1.0
+        D:"06.Temp Multiplier - Shade"=1.0
+        D:"07.Temp Multiplier - Sun"=1.0
+        D:08.Sanity=0.0
+        D:09.Air=0.0
+        B:"10.Allow Camel Pack"=true
+    }
+
+    "item_lead_helmet_[Ljava_lang_String;@7781000" {
+        S:01.ID=GalaxySpace:item.lead_helmet
+        D:"02.Temp Add - Night"=0.0
+        D:"03.Temp Add - Shade"=0.0
+        D:"04.Temp Add - Sun"=0.0
+        D:"05.Temp Multiplier - Night"=1.0
+        D:"06.Temp Multiplier - Shade"=1.0
+        D:"07.Temp Multiplier - Sun"=1.0
+        D:08.Sanity=0.0
+        D:09.Air=0.0
+    }
+
+    "item_lead_plate_[Ljava_lang_String;@28f4bd22" {
+        S:01.ID=GalaxySpace:item.lead_plate
+        D:"02.Temp Add - Night"=0.0
+        D:"03.Temp Add - Shade"=0.0
+        D:"04.Temp Add - Sun"=0.0
+        D:"05.Temp Multiplier - Night"=1.0
+        D:"06.Temp Multiplier - Shade"=1.0
+        D:"07.Temp Multiplier - Sun"=1.0
+        D:08.Sanity=0.0
+        D:09.Air=0.0
+        B:"10.Allow Camel Pack"=true
+    }
+
+    "item_lead_leg_[Ljava_lang_String;@37d6a9e" {
+        S:01.ID=GalaxySpace:item.lead_leg
+        D:"02.Temp Add - Night"=0.0
+        D:"03.Temp Add - Shade"=0.0
+        D:"04.Temp Add - Sun"=0.0
+        D:"05.Temp Multiplier - Night"=1.0
+        D:"06.Temp Multiplier - Shade"=1.0
+        D:"07.Temp Multiplier - Sun"=1.0
+        D:08.Sanity=0.0
+        D:09.Air=0.0
+    }
+
+    "item_lead_boots_[Ljava_lang_String;@125302e3" {
+        S:01.ID=GalaxySpace:item.lead_boots
+        D:"02.Temp Add - Night"=0.0
+        D:"03.Temp Add - Shade"=0.0
+        D:"04.Temp Add - Sun"=0.0
+        D:"05.Temp Multiplier - Night"=1.0
+        D:"06.Temp Multiplier - Shade"=1.0
+        D:"07.Temp Multiplier - Sun"=1.0
+        D:08.Sanity=0.0
+        D:09.Air=0.0
+    }
+
+}
+
+
+##########################################################################################################
+# biomes
+#--------------------------------------------------------------------------------------------------------#
+# Manually change the environmental properties of each biome
+##########################################################################################################
+
+biomes {
+
+    Space {
+        I:"01.Biome ID"=200
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Venus {
+        I:"01.Biome ID"=202
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    "Kuiper Belt" {
+        I:"01.Biome ID"=205
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=clean
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Io {
+        I:"01.Biome ID"=209
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    IoAsh {
+        I:"01.Biome ID"=210
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Titan {
+        I:"01.Biome ID"=214
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    BarnardaCShores {
+        I:"01.Biome ID"=219
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=35.55697408786282
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    BarnardaCHills {
+        I:"01.Biome ID"=220
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=35.55697408786282
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    BarnardaCLowPlains {
+        I:"01.Biome ID"=221
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=35.55697408786282
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    BarnardaCFlowers {
+        I:"01.Biome ID"=227
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=35.55697408786282
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    BarnardaCOceans {
+        I:"01.Biome ID"=228
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Pluto {
+        I:"01.Biome ID"=234
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Pluto2 {
+        I:"01.Biome ID"=235
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Pluto3 {
+        I:"01.Biome ID"=236
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Pluto4 {
+        I:"01.Biome ID"=237
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+    Haumea {
+        I:"01.Biome ID"=255
+        B:"02.Allow Config Override"=false
+
+        # Water Quality: dirty, salty, cold, clean
+        S:"03.Water Quality"=dirty
+
+        # Biome temperature in celsius (Player body temp is offset by + 12C)
+        D:"04.Ambient Temperature"=17.22075445642904
+        D:"05.Temp Rate"=0.005
+        D:"06.Sanity Rate"=0.0
+        D:"07.Dehydrate Rate"=0.05
+        D:"08.Air Quality Rate"=0.0
+    }
+
+}
+
+

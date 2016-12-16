@@ -1,0 +1,120 @@
+# Configuration file
+
+exclusions {
+    # Exclude block ID's from being matched by Ore Flowers
+    # Use the format modid:blockid[:meta] and put each on a separate line.
+    # Meta is optional - omit the second : completely to exclude all subblocks of that particular ID
+    # Example:
+    #     TConstruct:GravelOre
+    #     TConstruct:SearedBrick:5
+    #  [default: ]
+    S:ExcludeBlockIds <
+        TConstruct:GravelOre
+     >
+
+    # Exclude OreDict tags from being matched by Ore Flowers.
+    # Put each oredict tag on a separate line.
+    # Example:
+    #     oreIron
+    #     oreCopper
+    #  [default: ]
+    S:ExclusionsOredictTags <
+     >
+}
+
+
+general {
+    # Disable bonemeal flowering completely?
+    # If enabled, bonemeal events will no longer have a chance to spawn flowers. Worldgen flowers
+    # only. If you enable this, noPersistentData will be enabled too - regardless of it's config.
+    # This will save a little bit of performance and keep world save size down. Also, if using UBC,
+    # you will sadly have to enable this as bonemealing is incompatible with it's special overlay ores.
+    #  [default: false]
+    B:disableBonemeal=true
+
+    # Prevent using persistent data for ore flowers and chunk distribution?
+    # If true, chunks will be rescanned for ore distribution every time bonemeal-on-grass is
+    # performed, and ore data will not be saved with the world. This will add a bit of server work
+    # and network traffic, however it ensures 100% accuracy and compatibility with other mods that
+    # modify worldgen. It will also reduce world save times and size.
+    #  [default: false]
+    B:noPersistentData=false
+
+    # Process the OreDictionary list as late as possible?
+    # When enabled, the blocks lists of flowers to match against are scanned in the OreDictionary as
+    # late as possible - specifically, when the world is first loaded. This ensures maximum compatibility
+    # with mods that do some fancy or tricky worldgen, for example Underground Biomes Constructs.
+    #  [default: true]
+    B:processOreDictLatest=true
+
+    # Specify bonemeal scan depth in 8-block slices
+    # When using bonemeal on grass, the chunk is scanned this many 8-block slices down to determine
+    # the ore yield. The default of 4 for example will scan 32 blocks down. Note that ores in slices
+    # which are closer to the surface will have a greater weight on the chances for their associated
+    # flower to appear. This means that higher scan ranges could dilute the indicator results for
+    # chunks that have significant ore diversity.
+    #  [range: 0 ~ 32, default: 4]
+    I:scanDepthSlices=4
+
+    # Count of flowers per worldgen patch
+    # Specify the maximum number of flowers per flower patch on worldgen. This should be no higher than the
+    # worldgenFlowerSpread (below) squared.
+    #  [range: 0 ~ 32, default: 6]
+    I:worldgenFlowerCount=6
+
+    # Range in radius of flower placment clusters on worldgen
+    # Specify the maximum range of worldgen flower placement from a detected vein/deposit. When using
+    # custom oregen and disabling bonemeal flowering, decreasing this is useful. Note however that the
+    # maximum level of accuracy is 'this chunk'.
+    #  [range: 0 ~ 32, default: 16]
+    I:worldgenFlowerRadius=0
+
+    # Spread of flowers per worldgen cluster
+    # Specify how spread-out each cluster of flowers are in worldgen, i.e. the maximum size of the flower
+    # patch in block radius.
+    #  [range: 0 ~ 32, default: 9]
+    I:worldgenFlowerSpread=9
+}
+
+
+ores {
+    # These settings should be auto-detected during worldgen and act as an override.
+    # 0 will prevent flowers, 2 will enforce (set automatically), 1 is default. [range: 0 ~ 2, default: 1]
+    I:OreExists...=1
+    I:OreExistsAluminum=2
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsCadmium=1
+    I:OreExistsCopper=2
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsDiamond=1
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsFlourite=1
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsGold=1
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsIron=1
+    I:OreExistsLead=2
+    I:OreExistsNickel=2
+    I:OreExistsOsmium=2
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsRedstone=1
+    I:OreExistsSilver=2
+    I:OreExistsThorium=2
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsTin=2
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsUranium=1
+
+    #  [range: 0 ~ 2, default: 1]
+    I:OreExistsZinc=1
+}
+
+

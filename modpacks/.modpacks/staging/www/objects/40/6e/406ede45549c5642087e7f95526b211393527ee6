@@ -1,0 +1,10 @@
+# Configuration file
+
+settings {
+    S:"Item List" <
+        potion
+     >
+    I:"New Stack Size"=3
+}
+
+
