@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Reign",
+      "name" : "Reign",
+      "version" : "2016-12-16-13-54-20",
+      "location" : "reign.json",
+      "priority" : 0
+    }
+  ]
+}
