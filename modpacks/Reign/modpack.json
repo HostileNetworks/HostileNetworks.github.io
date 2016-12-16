@@ -19,8 +19,8 @@
     },
     {
       "properties" : {
-        "name" : "LLOverlayReloaded-ReignModpack",
-        "description" : "Toggle a light-level spawn overlay when you press F7. Similar to NEI's version, but more compatible.",
+        "name" : "LLOverlayReloaded",
+        "description" : "Toggle a light-level spawn overlay when you press F7. Similar to NEI's version, but more compatible.\n\nSee https://mods.curse.com/mc-mods/minecraft/226670-light-level-overlay-reloaded",
         "recommendation" : "starred",
         "selected" : true
       },
@@ -48,7 +48,7 @@
     {
       "properties" : {
         "name" : "Ambiotic",
-        "description" : "MAtmos-inspired ambient sound engine.",
+        "description" : "MAtmos-inspired ambient sound engine.\n\nNOTE: You CPU will take a bit of a hit (may reduce FPS).",
         "recommendation" : null,
         "selected" : false
       },
@@ -76,7 +76,7 @@
     {
       "properties" : {
         "name" : "Sound Filters",
-        "description" : "Adds sound reverb to caves and a muted effect to sound when behind walls and underwater.",
+        "description" : "Adds sound reverb to caves and a muted effect to sound when behind walls and underwater.\n\nNOTE: You CPU will take a bit of a hit (may reduce FPS).",
         "recommendation" : null,
         "selected" : false
       },
