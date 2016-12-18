@@ -12,7 +12,8 @@
       },
       "files" : {
         "include" : [
-          "mods/fastcraft-*.jar"
+          "mods/fastcraft-*.jar",
+          "config/fastcraft.ini"
         ],
         "exclude" : [ ]
       }
@@ -26,21 +27,24 @@
       },
       "files" : {
         "include" : [
-          "mods/LLOverlayReloaded-*"
+          "mods/LLOverlayReloaded-*",
+          "config/LLOverlayReloaded.cfg"
         ],
         "exclude" : [ ]
       }
     },
     {
       "properties" : {
-        "name" : "Xaero's Minimap (Restricted)",
+        "name" : "Xaero's Minimap (Reign version)",
         "description" : "A modified version of Xaero's Minimap that only unlocks once you posess a specific item (lore-friendly).",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/Xaeros_Minimap_*"
+          "mods/Xaeros_Minimap_*",
+          "config/xaerominimap.txt",
+          "config/xaerowaypoints.txt"
         ],
         "exclude" : [ ]
       }
@@ -48,8 +52,8 @@
     {
       "properties" : {
         "name" : "Ambiotic",
-        "description" : "MAtmos-inspired ambient sound engine.\n\nNOTE: You CPU will take a bit of a hit (may reduce FPS).",
-        "recommendation" : null,
+        "description" : "MAtmos-inspired ambient sound engine. WARNING: In our testing this has caused occasional crashes. YMMV.\n\nNOTE: You CPU will take a bit of a hit (may reduce FPS).",
+        "recommendation" : "avoid",
         "selected" : false
       },
       "files" : {
@@ -83,6 +87,21 @@
       "files" : {
         "include" : [
           "mods/SoundFilters-*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Neat (Reign version)",
+        "description" : "Shows nameplates and health bars above other creatures. Preconfigured to only show for the creature you're looking at, and doesn't stay visible in darkness. Immersive!",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/Neat*-ReignModpackFork",
+          "config/Neat.cfg"
         ],
         "exclude" : [ ]
       }
