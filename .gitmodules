@@ -1,3 +1,3 @@
 [submodule "modpacks/Reign/src"]
 	path = modpacks/Reign/src
-	url = git@github.com:HostileNetworks/ReignModpack.git
+	url = https://github.com/HostileNetworks/ReignModpack.git
