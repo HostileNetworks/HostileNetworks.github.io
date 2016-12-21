@@ -117,7 +117,7 @@
   },
   "launch" : {
     "flags" : [
-      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+      "-Dfml.ignoreInvalidMinecraftCertificates=true -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:MaxGCPauseMillis=40 -XX:CMSInitiatingOccupancyFraction=70 -XX:+CMSScavengeBeforeRemark"
     ]
   }
 }
