@@ -21,7 +21,7 @@
     {
       "properties" : {
         "name" : "LLOverlayReloaded",
-        "description" : "Toggle a light-level spawn overlay when you press F7. Similar to NEI's version, but more compatible.\n\nSee https://mods.curse.com/mc-mods/minecraft/226670-light-level-overlay-reloaded",
+        "description" : "Toggle a light-level overlay when you press F4, indicating possibility of monster spawns. Substitute for NEI's spawn overlay (which doesn't work with JAS).\n\nSee https://mods.curse.com/mc-mods/minecraft/226670-light-level-overlay-reloaded",
         "recommendation" : "starred",
         "selected" : true
       },
