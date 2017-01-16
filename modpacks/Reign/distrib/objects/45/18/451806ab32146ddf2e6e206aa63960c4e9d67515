@@ -1,8 +1,0 @@
-#
-#Sun Jul 31 14:48:05 AEST 2016
-DayNightCycle.enabled=true
-NonSolidLeaves.enabled=false
-RuntimeObfuscation.enabled=true
-DayNightCycle.cycleLengthMultiplier=3.0
-PreventBoatBreak.enabled=false
-DayNightCycle.dayToNightRatio=0.5
