@@ -2,9 +2,9 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Reign",
+      "title" : "Reign [MC 1.7.10]",
       "name" : "Reign",
-      "version" : "0.1.1",
+      "version" : "All",
       "location" : "Reign/distrib/Reign.json",
       "priority" : 0
     }
