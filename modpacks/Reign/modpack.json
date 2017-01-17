@@ -111,7 +111,8 @@
     "include" : [
       "options.txt",
       "optionsof.txt",
-      "optionsshaders.txt"
+      "optionsshaders.txt",
+      "servers.dat"
     ],
     "exclude" : [ ]
   },
