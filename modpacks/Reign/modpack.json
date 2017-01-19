@@ -112,7 +112,8 @@
       "options.txt",
       "optionsof.txt",
       "optionsshaders.txt",
-      "servers.dat"
+      "servers.dat",
+      "config\\enviromine\\UI_Settings.dat"
     ],
     "exclude" : [ ]
   },
