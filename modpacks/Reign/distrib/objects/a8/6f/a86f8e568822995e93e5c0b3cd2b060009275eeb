@@ -15,7 +15,7 @@
     },
     "EntityHorse": {
       "Type-Enabled": "CREATURE-true",
-      "Spawn Operand": "AND",
+      "Spawn Operand": "OR",
       "Spawn Tag": "(obj.light<7)||(obj.torchlight>6)",
       "Despawn Tags": "isTamed()||obj.torchlight>6",
       "Contents": [
@@ -57,6 +57,9 @@
     },
     "Wolf": {
       "Type-Enabled": "CREATURE-true",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "(obj.light<7)||(obj.torchlight>6)",
+      "Despawn Tags": "isTamed()||obj.torchlight>6",
       "Contents": [
         "Wolf"
       ]
@@ -69,7 +72,7 @@
     },
     "MushroomCow": {
       "Type-Enabled": "CREATURE-true",
-      "Spawn Operand": "AND",
+      "Spawn Operand": "OR",
       "Spawn Tag": "(obj.torchlight>6)",
       "Contents": [
         "MushroomCow"
@@ -77,6 +80,9 @@
     },
     "Ozelot": {
       "Type-Enabled": "CREATURE-true",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "(obj.light<7)||(obj.torchlight>6)",
+      "Despawn Tags": "isTamed()||obj.torchlight>6",
       "Contents": [
         "Ozelot"
       ]
@@ -133,7 +139,7 @@
     },
     "CaveSpider": {
       "Type-Enabled": "MONSTER-true",
-      "Spawn Operand": "AND",
+      "Spawn Operand": "OR",
       "Spawn Tag": "(sky())||(obj.light>7)",
       "Contents": [
         "CaveSpider"
