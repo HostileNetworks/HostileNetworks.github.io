@@ -20,7 +20,16 @@ echo.
 echo Note that the old objects (previous modpack version) will be deleted - this is to save
 echo space on the server.
 echo.
+echo First step is to pull any remote updates. If there are no errors/conflicts, you can then
+echo continue with rebuilding the modpack.
+echo.
 echo [?] Press any key to begin.
+pause > nul
+echo.
+echo [#] Pulling...
+git pull
+echo.
+echo [?] If all is well, press any key to regenerate the modpack.
 pause > nul
 echo.
 echo [#] Deleting old objects...
