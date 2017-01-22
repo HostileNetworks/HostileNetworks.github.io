@@ -15,7 +15,8 @@ SET MODPACK=Reign
 
 
 echo This script will build the %MODPACK% modpack from the src folder, ready for you to upload
-echo to the server.
+echo to the server. Make sure that the %MODPACK%\src\ repo contains the modpack you wish to
+echo distribute.
 echo.
 echo Note that the old objects (previous modpack version) will be deleted - this is to save
 echo space on the server.
