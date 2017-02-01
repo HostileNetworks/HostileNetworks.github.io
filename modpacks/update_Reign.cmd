@@ -40,7 +40,13 @@ echo [#] Building new modpack...
 java -jar "%~dp0\launcher-builder-1.0.0-all.jar" --version "%VERSION%" --input "%~dp0\%MODPACK%" --output "%~dp0\%MODPACK%\distrib" --manifest-dest "%~dp0\%MODPACK%\distrib\%MODPACK%.json"
 
 echo.
-echo [?] Done! Press any key to close.
+echo.
+echo [?] Done! Now you can commit and push all changes in this repo to update the Hostile Launcher.
+echo.
+echo [!] Don't forget to update the server via PuTTY too!
+echo.
+echo.
+echo [i] Press any key to close.
 pause>nul
 
 :END
