@@ -6,21 +6,21 @@
         "name" : "",
         "version" : "",
         "location" : "",
-        "priority" : 0
+        "priority" : -1
     },
     {
         "title" : "Reign [MC 1.7.10]",
         "name" : "Reign",
         "version" : "All",
         "location" : "distrib/Reign.json",
-        "priority" : 1
+        "priority" : 0
     },
     {
         "title" : "Reign PVP [MC 1.7.10]",
         "name" : "ReignPVP",
         "version" : "All",
         "location" : "distrib/Reign.json",
-        "priority" : 2
+        "priority" : 0
     }
   ]
 }
