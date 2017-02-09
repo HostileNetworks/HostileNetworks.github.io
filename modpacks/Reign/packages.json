@@ -5,14 +5,14 @@
       "title" : "Reign [MC 1.7.10]",
       "name" : "Reign",
       "version" : "All",
-      "location" : "Reign/distrib/Reign.json",
+      "location" : "distrib/Reign.json",
       "priority" : 0
     },
     {
       "title" : "Reign PVP [MC 1.7.10]",
       "name" : "Reign PVP",
       "version" : "All",
-      "location" : "Reign/distrib/Reign.json",
+      "location" : "distrib/Reign.json",
       "priority" : 0
     }
   ]
