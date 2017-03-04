@@ -1,0 +1,21 @@
+{
+  "_name": "Sheep",
+  "drops": [
+    {
+      "_comment": "Drop Offal",
+      "function": "add",
+      "id": "kitchenCraftFoods:veggie",
+      "damage": "10",
+      "count": 1
+    },
+    {
+      "_comment": "Drop Mutton",
+      "function": "add",
+      "id": "harvestcraft:muttonrawItem",
+      "damage": "0",
+      "count": 1
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}
