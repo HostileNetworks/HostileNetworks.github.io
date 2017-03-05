@@ -68,7 +68,7 @@ general {
     B:debugMode=false
 
     # Enable Safe Machines
-    B:decaySafeMachines=false
+    B:decaySafeMachines=true
 
     # Add Molecule Effects to the item tooltip
     B:displayMoleculeEffects=true
@@ -131,13 +131,13 @@ power {
     I:maxDecomposerStorage=100000
 
     # Max power that the fission reactor can hold
-    I:maxFissionStorage=100000
+    I:maxFissionStorage=10000000
 
     # Max power that the fusion reactor can hold
-    I:maxFusionStorage=100000
+    I:maxFusionStorage=10000000
 
     # Max power that the synthesizer can hold
-    I:maxSynthesizerStorage=100000
+    I:maxSynthesizerStorage=1000000000
 
     # Recipe Recursion Depth (higher for more complex recipes)
     I:recursiveDepth=10
@@ -160,5 +160,4 @@ worldgen {
     # How frequently will uranium be generated in a chunk
     I:uraniumoredensity=5
 }
-
 
