@@ -1,5 +1,5 @@
 {
-  "_name": "Pig",
+  "_name": "Sheep",
   "drops": [
     {
       "_comment": "Drop Offal",
@@ -9,11 +9,11 @@
       "count": 1
     },
     {
-      "_comment": "Drop extra Chalk Pops",
+      "_comment": "Drop Mutton",
       "function": "add",
-      "id": "minecraft:porkchop",
+      "id": "harvestcraft:muttonrawItem",
       "damage": "0",
-      "count": 1
+      "count": 2
     }
   ],
   "pre_stats": [],
