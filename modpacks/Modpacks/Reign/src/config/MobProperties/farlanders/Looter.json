@@ -1,0 +1,11 @@
+{
+  "_name": "farlanders.looter",
+  "drops": [],
+  "pre_stats": [
+    {
+      "function": "external",
+      "file": "thiefAI"
+    }
+  ],
+  "stats": []
+}
