@@ -1,0 +1,17 @@
+{
+  "name" : "Forge_1.7.10",
+  "title" : "Forge .1614 [1.7.10]",
+  "gameVersion" : "1.7.10",
+  "features" : [],
+  "userFiles" : {
+    "include" : [
+      "options.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
