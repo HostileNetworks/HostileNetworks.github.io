@@ -13,14 +13,14 @@
         "name" : "Reign",
         "version" : "All",
         "location" : "modpacks/Reign/distrib/Reign.json",
-        "priority" : 0
+        "priority" : 1
     },
     {
         "title" : "Forge .1614 [1.7.10]",
         "name" : "Forge_1.7.10",
         "version" : "All",
         "location" : "modpacks/Forge_1.7.10/distrib/Forge_1.7.10.json",
-        "priority" : 1
+        "priority" : 0
     }
   ]
 }
