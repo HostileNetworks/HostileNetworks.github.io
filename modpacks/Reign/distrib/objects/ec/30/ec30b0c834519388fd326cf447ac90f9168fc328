@@ -1,0 +1,78 @@
+{
+  "FILE_VERSION": "2.0",
+  "STRUCTURES": {
+    "Mineshaft": {
+      "MONSTER": {
+        "Creeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "5-4-4-4"
+        },
+        "GrimoireOfGaia.Sludge Girl": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-1-1"
+        },
+        "Skeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-4-4"
+        },
+        "Spider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-4-4-4"
+        },
+        "Zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-2-2"
+        },
+        "farlanders.Looter": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        }
+      }
+    },
+    "NetherBridge": {
+      "MONSTER": {
+        "Blaze": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-2-2"
+        },
+        "LavaSlime": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-4-4-4"
+        },
+        "PigZombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "5-4-4-4"
+        },
+        "Skeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-4-4"
+        }
+      }
+    },
+    "Stronghold": {
+      "MONSTER": {
+        "Creeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "5-4-1-1"
+        },
+        "GrimoireOfGaia.Ender Dragon Girl": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-1-1"
+        },
+        "GrimoireOfGaia.Ender Eye": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-1-1"
+        },
+        "GrimoireOfGaia.Spriggan": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-1-1"
+        },
+        "Skeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-4-4"
+        },
+        "Spider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-4-4-4"
+        },
+        "Zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-2-2"
+        },
+        "farlanders.Looter": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        }
+      }
+    },
+    "WitchHut": {
+      "MONSTER": {
+        "Witch": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-4-1-1"
+        }
+      }
+    }
+  }
+}
