@@ -60,6 +60,7 @@ backpacks {
             minecraft:coal:0
             minecraft:coal_ore:0
             minecraft:obsidian:0
+            Thaumcraft:ItemShard
          >
 
         # Add ore dictionary names for the miner's backpack here in the format 'oreDictName'.
@@ -721,6 +722,7 @@ backpacks {
             minecraft:netherrack:0
             minecraft:sandstone:0
             minecraft:soul_sand:0
+            CaveBiomes:sedimentarySand
          >
 
         # Add ore dictionary names for the digger's backpack here in the format 'oreDictName'.
