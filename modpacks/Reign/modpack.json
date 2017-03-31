@@ -93,6 +93,20 @@
     },
     {
       "properties" : {
+        "name" : "Better Foliage",
+        "description" : "Makes foliage better!",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/BetterFoliage-*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
         "name" : "Neat (Reign version)",
         "description" : "Shows nameplates and health bars above other creatures. Preconfigured to only show for the creature you're looking at, and doesn't stay visible in darkness. Immersive!",
         "recommendation" : "starred",
