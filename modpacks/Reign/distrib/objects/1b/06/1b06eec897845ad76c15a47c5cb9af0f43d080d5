@@ -1,0 +1,51 @@
+{
+  "FILE_VERSION": "3.0",
+  "LIVING_HANDLERS": {
+    "shadowmobs.phantom": {
+      "Type-Enabled": "MONSTER-false",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "obj.origin<1000||obj.light>5)",
+      "Contents": [
+        "shadowmobs.phantom"
+      ]
+    },
+    "shadowmobs.geist": {
+      "Type-Enabled": "MONSTER-false",
+      "Contents": [
+        "shadowmobs.geist"
+      ]
+    },
+    "shadowmobs.chupacabra": {
+      "Type-Enabled": "MONSTER-false",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "obj.light>3||posY>40",
+      "Entity Cap": 3,
+      "Contents": [
+        "shadowmobs.chupacabra"
+      ]
+    },
+    "shadowmobs.grue": {
+      "Type-Enabled": "MONSTER-false",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "obj.light>3||posY>40",
+      "Contents": [
+        "shadowmobs.grue"
+      ]
+    },
+    "shadowmobs.epion": {
+      "Type-Enabled": "MONSTER-true",
+      "Contents": [
+        "shadowmobs.epion"
+      ]
+    },
+    "shadowmobs.shade": {
+      "Type-Enabled": "MONSTER-true",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "obj.light>3||posY>40",
+      "Entity Cap": 3,
+      "Contents": [
+        "shadowmobs.shade"
+      ]
+    }
+  }
+}

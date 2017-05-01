@@ -1,0 +1,377 @@
+{
+  "FILE_VERSION": "2.0",
+  "SORTED_BY_BIOME": true,
+  "SPAWN_LIST_ENTRIES": {
+    "BEACH": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "COLD": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "CONIFEROUS": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "DESERT": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DRY MOUNTAIN": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "END": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "FOREST": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "ICE MOUNTAIN": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "JUNGLE": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "Kepler22b Blue Maple Forest": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Plains": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Purple Maple Forest": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Red Maple Forest": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Yellow Maple Forest": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "LUSH MOUNTAIN": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "MAGICAL": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MOUNTAIN": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MUSHROOM": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "NETHER": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "OCEAN": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "PLAINS": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-2-0-4"
+        }
+      }
+    },
+    "RIVER": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SAVANNA": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-2-0-4"
+        }
+      }
+    },
+    "SNOWY": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SPOOKY": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SWAMP": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-0-4"
+        }
+      }
+    },
+    "TCetiE": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WASTELAND": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-2-0-4"
+        }
+      }
+    },
+    "WET": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-1-0-4"
+        }
+      }
+    },
+    "callisto": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ceres": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "deimos": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "eris": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "europa": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ganymede": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "iapetus": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "io": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "jupiter": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "mercury": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.asteroids": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.marsFlat": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.moon": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "neptune": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "oberon": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "phobos": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "pluto": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "rhea": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "saturn": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titan": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titania": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "triton": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "uranus": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "venus": {
+      "MONSTER": {
+        "Mekanism.BabySkeleton": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    }
+  }
+}

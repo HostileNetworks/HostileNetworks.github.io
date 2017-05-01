@@ -1,0 +1,1207 @@
+{
+  "FILE_VERSION": "2.0",
+  "SORTED_BY_BIOME": true,
+  "SPAWN_LIST_ENTRIES": {
+    "BEACH": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "COLD": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "CONIFEROUS": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DESERT": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-0-0-0"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-0-0-0"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-0-0-0"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-0-0-0"
+        }
+      }
+    },
+    "DRY MOUNTAIN": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "END": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "FOREST": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ICE MOUNTAIN": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "JUNGLE": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Blue Maple Forest": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Plains": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Purple Maple Forest": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Red Maple Forest": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Yellow Maple Forest": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "LUSH MOUNTAIN": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MAGICAL": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MOUNTAIN": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MUSHROOM": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "NETHER": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "OCEAN": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "PLAINS": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-1-1"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-0-0-0"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-2-1-1"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-2"
+        }
+      }
+    },
+    "RIVER": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SAVANNA": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-2-1-1"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-0-1"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "4-1-1-1"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-2-1-2"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-1"
+        }
+      }
+    },
+    "SNOWY": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SPOOKY": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SWAMP": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "TCetiE": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WASTELAND": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WET": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-1-1-1"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "callisto": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ceres": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "deimos": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "eris": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "europa": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ganymede": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "iapetus": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "io": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "jupiter": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "mercury": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.asteroids": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.marsFlat": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.moon": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "neptune": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "oberon": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "phobos": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "pluto": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "rhea": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "saturn": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titan": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titania": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "triton": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "uranus": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "venus": {
+      "CREATURE": {
+        "plainsmobs.maka": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.makaalpha": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "plainsmobs.kobold": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.roc": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.ventoraptor": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "plainsmobs.zoataur": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    }
+  }
+}

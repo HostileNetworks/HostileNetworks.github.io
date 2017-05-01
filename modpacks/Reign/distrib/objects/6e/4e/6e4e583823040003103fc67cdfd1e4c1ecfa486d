@@ -1,0 +1,785 @@
+{
+  "FILE_VERSION": "2.0",
+  "SORTED_BY_BIOME": true,
+  "SPAWN_LIST_ENTRIES": {
+    "BEACH": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-0-0"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-0"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-0-0"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-0-0"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-2-0-0"
+        }
+      }
+    },
+    "BarnardaCLowPlains": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "COLD": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "CONIFEROUS": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DESERT": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DRY MOUNTAIN": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "END": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "FOREST": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ICE MOUNTAIN": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "JUNGLE": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Blue Maple Forest": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Plains": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Purple Maple Forest": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Red Maple Forest": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Yellow Maple Forest": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "LUSH MOUNTAIN": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MAGICAL": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MESA": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MOUNTAIN": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MUSHROOM": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "NETHER": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "OCEAN": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-4-0-0"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-1-0-0"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-2-0-0"
+        }
+      }
+    },
+    "PLAINS": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "RIVER": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SAVANNA": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SNOWY": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SPOOKY": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SWAMP": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Space": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "TCetiE": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WASTELAND": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WET": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "callisto": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ceres": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "deimos": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "eris": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "europa": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ganymede": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "iapetus": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "io": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "jupiter": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "mercury": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.asteroids": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.marsFlat": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.moon": {
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "neptune": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "oberon": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "phobos": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "pluto": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "rhea": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "saturn": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titan": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titania": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "triton": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "uranus": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "venus": {
+      "MONSTER": {
+        "saltwatermobs.raiko": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "WATERCREATURE": {
+        "saltwatermobs.abtu": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.ika": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.lacedon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "saltwatermobs.skylus": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    }
+  }
+}

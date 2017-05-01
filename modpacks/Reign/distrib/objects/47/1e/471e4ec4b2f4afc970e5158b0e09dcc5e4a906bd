@@ -1,0 +1,960 @@
+{
+  "FILE_VERSION": "2.0",
+  "SORTED_BY_BIOME": true,
+  "SPAWN_LIST_ENTRIES": {
+    "BEACH": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "COLD": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "CONIFEROUS": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DESERT": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DRY MOUNTAIN": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "END": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "FOREST": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ICE MOUNTAIN": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "JUNGLE": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Blue Maple Forest": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Plains": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Purple Maple Forest": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Red Maple Forest": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Yellow Maple Forest": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "LUSH MOUNTAIN": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MAGICAL": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MOUNTAIN": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MUSHROOM": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "NETHER": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-4-8"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "10-4-4-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "7-4-4-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "8-4-4-6"
+        }
+      }
+    },
+    "OCEAN": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "PLAINS": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "RIVER": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SAVANNA": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SNOWY": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SPOOKY": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SWAMP": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "TCetiE": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WASTELAND": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WET": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "callisto": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ceres": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "deimos": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "eris": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "europa": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ganymede": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "iapetus": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "io": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "jupiter": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "mercury": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.asteroids": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.marsFlat": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.moon": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "neptune": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "oberon": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "phobos": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "pluto": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "rhea": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "saturn": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titan": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titania": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "triton": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "uranus": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "venus": {
+      "CREATURE": {
+        "Natura.Imp": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "Natura.FlameSpider": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.FlameSpiderBaby": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "Natura.NitroCreeper": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    }
+  }
+}

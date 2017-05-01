@@ -1,0 +1,967 @@
+{
+  "FILE_VERSION": "2.0",
+  "SORTED_BY_BIOME": true,
+  "SPAWN_LIST_ENTRIES": {
+    "BEACH": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "COLD": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "CONIFEROUS": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DESERT": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "DRY MOUNTAIN": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "END": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "FOREST": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-4-1-2"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ICE MOUNTAIN": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-1-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "JUNGLE": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-3-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Blue Maple Forest": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Plains": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Purple Maple Forest": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Red Maple Forest": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "Kepler22b Yellow Maple Forest": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "LUSH MOUNTAIN": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MAGICAL": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MESA": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MOUNTAIN": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-2-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "MUSHROOM": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "NETHER": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "OCEAN": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "PLAINS": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "RIVER": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SAVANNA": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "1-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SNOWY": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "3-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SPOOKY": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "SWAMP": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-3-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "TCetiE": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WASTELAND": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "2-2-1-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "WET": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-3-3"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "callisto": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ceres": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "deimos": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "eris": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "europa": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "ganymede": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "iapetus": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "io": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "jupiter": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "mercury": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.asteroids": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.marsFlat": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "micdoodle8.moon": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "neptune": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "oberon": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "phobos": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "pluto": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "rhea": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "saturn": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titan": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "titania": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "triton": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "uranus": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    },
+    "venus": {
+      "CREATURE": {
+        "etfuturum.rabbit": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      },
+      "MONSTER": {
+        "etfuturum.ender_dragon": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.endermite": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        },
+        "etfuturum.villager_zombie": {
+          "Weight-PassivePackMax-ChunkPackMin-ChunkPackMax": "0-4-0-4"
+        }
+      }
+    }
+  }
+}
