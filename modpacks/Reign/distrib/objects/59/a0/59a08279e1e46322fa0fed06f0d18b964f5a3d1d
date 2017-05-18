@@ -33,7 +33,9 @@
       ]
     },
     "shadowmobs.epion": {
-      "Type-Enabled": "MONSTER-true",
+      "Type-Enabled": "SIEGE-true",
+      "Spawn Operand": "OR",
+      "Spawn Tag": "obj.torchlight>7||!time.isFullMoon()||time.timeOfDay<14000||obj.light>3||obj.light>3||!opaque({0,0,0},{0,-10,0})",
       "Contents": [
         "shadowmobs.epion"
       ]
